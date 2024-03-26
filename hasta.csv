@@ -1,0 +1,5 @@
+"id","tcno","ad","soyad","telefon","dogumtarihi","dogumyeri","adres","hastalik","ilac"
+11,"11111111111","Ahmet","Kaya","0555 999 88 77","05.07.2004","Kütahya","Selçuklu","Karın Ağrısı","A ilacı"
+13,"33333333333","Burak","Maltepe","0555 777 66 55","25.05.1998","İzmir","Karşıyaka","Yanık",""
+14,"44444444444","Elif","Demir","0555 666 55 44","11.01.2001","Adana","Ceyhan","Geniz Eti",""
+16,"22222222222","Mehmet","Yılmaz","0555 111 22 33","09.11.2002","Kütahya","Simav","",""
